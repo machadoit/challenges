@@ -9,6 +9,7 @@ GOAL_SUM = 1000
 
 
 def find_triple():
+    print("ola")
     for a in range(GOAL_SUM):
         for b in range(GOAL_SUM):
             for c in range(GOAL_SUM):
